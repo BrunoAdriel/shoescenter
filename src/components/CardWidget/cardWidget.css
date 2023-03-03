@@ -1,0 +1,10 @@
+.card-widget {
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.card-widget > img {
+  width: 40px;
+  height: 40px;
+}
